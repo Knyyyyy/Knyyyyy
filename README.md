@@ -10,18 +10,20 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ---
 
 ### 🌱 GitHub 목표
 - 매일 조금씩 Commit해서 잔디 심기
 - 배운 내용을 Markdown으로 예쁘게 정리하기
-
+- 공부 기록을 꾸준히 남기기
+  
 ---
 
 ### ⭐ 앞으로의 목표
 - GitHub에 꾸준히 공부 기록 업로드
-
+- 배운 내용 복습하며 이해 강화
+  
 ---
 
 ### 📬 Contact
