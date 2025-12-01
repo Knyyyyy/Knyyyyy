@@ -1,4 +1,4 @@
-# 👋 안녕하세요!권나연입니다.
+# 👋 안녕하세요! 권나연입니다.
 
 저는 인공지능소프트웨어학과 학생이며, GitHub에 배운 내용을 기록하고 있습니다.🌱
 
@@ -21,13 +21,6 @@
 
 ### ⭐ 앞으로의 목표
 - GitHub에 꾸준히 공부 기록 업로드
-
----
-
-### 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Knyyyyy&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=default&hide_border=true)
-
 
 ---
 
